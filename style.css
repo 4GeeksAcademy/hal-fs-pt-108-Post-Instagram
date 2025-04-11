@@ -12,6 +12,11 @@ body {
     height: 800px;
 }
 
+.logo {
+    margin-left: 10px;
+
+
+}
 .post-header {
     display: flex;
     justify-content: space-between;
@@ -30,7 +35,7 @@ body {
 .usuario {
     flex-direction: column;
     line-height: 1px;
-    margin-left: 20px;
+    margin-left: 15px;
 }
 
 
