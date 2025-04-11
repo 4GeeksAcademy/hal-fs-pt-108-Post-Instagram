@@ -1,4 +1,73 @@
+
 body {
     background: black;
+    justify-content: center;
+    display: flex;
+    margin-top: 80px;
 }
+
+.post {
+    background-color: white;
+    width: 800px;
+    height: 800px;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: 0px 10px;
+}
+
+.usuario2 {
+    line-height: 60px;
+    margin-right: 10px;
+}
+.izq1 {
+    display: flex;
+    align-items: center;
+}
+
+.usuario {
+    flex-direction: column;
+    line-height: 1px;
+    margin-left: 20px;
+}
+
+
+.iconos {
+    justify-content: space-between;
+    margin-top: -16px;
+    margin-left: 10px;
+    padding-top: 2px;
+
+}
+
+.iconoizq {
+    margin-top: 19px;
+    margin-left: 755px;
+    padding-top: 2px;
+}
+
+.texto {
+    padding-left: 2%;
+    padding-right: 2px;
+    padding-bottom: 10px;
+ }
+
+.footer {
+    margin-bottom: 10px;
+}
+
+img {
+    width: 800px;
+    margin: auto;
+}
+
+p {
+    padding-right: 0%;
+    padding-top: 5px;
+}
+
+
+
 
